@@ -1,4 +1,4 @@
-# Altium-Smart-Garden-Projet-PCB
+# Altium Smart Garden Projet PCB
 
 ## Overview
 The **Altium Smart Garden Project PCB** is a hardware project currently under development. This project aims to create a smart gardening system that leverages sensors and actuators to automate and optimize plant care.
